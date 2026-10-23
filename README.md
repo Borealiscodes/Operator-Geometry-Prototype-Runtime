@@ -81,6 +81,8 @@ All artifacts here should be treated as experimental and non‑canonical until i
 📁 Repository Layout
 
 `
+<pre> 
+  
 Operator-Geometry-Prototype-Runtime/
 │
 ├── README.md
@@ -117,6 +119,7 @@ Operator-Geometry-Prototype-Runtime/
 │
 └── provenance/
 `
+</pre>
 
 ---
 
